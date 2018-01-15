@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Pacifico:400);
-@import url(https://fonts.googleapis.com/css?family=Coming+Soon:400);
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,400i,700,700i);
 
 
 
@@ -40,11 +40,11 @@ body {
   font-size: 8rem;
 }
 .display-5 {
-  font-family: 'Coming Soon', handwriting;
-  font-size: 2rem;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 1.2rem;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 3.2rem;
+  font-size: 1.92rem;
 }
 .display-7 {
   font-family: 'Pacifico', handwriting;
@@ -75,9 +75,9 @@ body {
     line-height: calc( 1.4 * (2.4rem + (5 - 2.4) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 1.6rem;
-    font-size: calc( 1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.96rem;
+    font-size: calc( 1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -2232,7 +2232,7 @@ body {
   flex-basis: auto;
 }
 .cid-qCpTEF6rO1 {
-  padding-top: 30px;
+  padding-top: 120px;
   padding-bottom: 120px;
   background-color: #cccccc;
 }
